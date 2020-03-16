@@ -1,6 +1,0 @@
-aaaaaa test conflict 
-bbbbbb
-UUUUUUU
-sssss
-fffff
-@@@@@@@@@@@@@
